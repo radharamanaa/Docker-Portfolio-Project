@@ -1,0 +1,77 @@
+[
+  {
+    "skill": "AWS",
+    "rating": 4,
+    "info": "Aws cloudformation and AWS CDK are some of the most beloved tools in AWS. I have used it in 2+ projects."
+  },
+  {
+    "skill": "Java",
+    "rating": 4,
+    "info": "Java is my first love from the start of career. Used latest features of Java 17 like record, sealing classes, Concurrency, Multithreading and Others."
+  },
+  {
+    "skill": "Spring Framework",
+    "rating": 4,
+    "info": "Using in Work from about 5 years, I have used several features like Spring Boot, Spring Web, Spring Data JPA, Spring Config Client/Server, Spring Gateway, Spring Eureka Discovery and Others"
+  },
+  {
+    "skill": "Javascript",
+    "rating": 4,
+    "info": "If you want to get more done in less, this is your choice. Used Javascript extensively in all my Company projects. In 2014 - 2015, all front end validations were in Javascript"
+  },
+  {
+    "skill": "Apache Kafka",
+    "rating": 4,
+    "info": "Used Apache Kafka in Valuelabs, its speed and concepts are Astounding. The way it manages partitions and selects a leader on failure are amazing concepts."
+  },
+  {
+    "skill": "MicroServices",
+    "rating": 4,
+    "info": "Most important concern in Microservices pattern is Communication. Apache Kakfa will help you a lot in this area. Practical Experience in the same"
+  },
+  {
+    "skill": "Git - Version Ctrl",
+    "rating": 4,
+    "info": "An Amazing version control System, used the same in freelance and past company projects."
+  },
+  {
+    "skill": "ReactJS",
+    "rating": 4,
+    "info": "You can find 3+ repos in my Github with ReactJS and typescript. Typescript has a robuts type system and it is worth the overhead."
+  },
+  {
+    "skill": "React Router",
+    "rating": 4,
+    "info": "Used the latest version of React-router in Valuelabs for Valuepedia and Survey Form Generator!"
+  },
+  {
+    "skill": "HTML",
+    "rating": 4,
+    "info": "Block elements, Inline block, Inline elements, flex and Grid, used all of them heavily."
+  },
+  {
+    "skill": "CSS",
+    "rating": 4,
+    "info": "Have been using HTML and CSS from over 10 years now. Flexbox and Grid have stolen my heart."
+  },
+  {
+    "skill": "Typescript",
+    "rating": 4,
+    "info": "Used typescript in last 2 companies. Thanks for your type checking. Your doing a stupendous job."
+  },
+  {
+    "skill": "VueJS",
+    "rating": 3,
+    "info": "Experience in Current company. Valuepedia project built on VueJS front end running on NGINX"
+  },
+  {
+    "skill": "NextJs",
+    "rating": 3,
+    "info": "Used NextJs on freelance projects. Have practical experience on the same."
+  },
+  {
+    "skill": "Nginx",
+    "rating": 3,
+    "info": "Fixed Security issues on site Valuepedia namely Content Security Policy and HSTS which serves static data using Nginx"
+  }
+]
